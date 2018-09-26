@@ -2,5 +2,6 @@
 
 <h3 align="center">北冥有鱼的笔记</h3>
 
-
-## 不定期更新中——
+—— 持续更新中
+ - [45度仰角看响应式编程](https://github.com/godkun/blog/issues/4)
+ - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
