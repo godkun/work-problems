@@ -3,5 +3,5 @@
 <h3 align="center">北冥有鱼的笔记</h3>
 
 —— 持续更新中
- - [45度仰角看响应式编程](https://github.com/godkun/blog/issues/4)
- - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
+ - [使用fiddler时遇到的坑](https://github.com/godkun/work-problems/issues/1)
+ - [小程序中安卓机上不显示图片](https://github.com/godkun/work-problems/issues/4)
