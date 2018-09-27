@@ -5,3 +5,5 @@
 —— 持续更新中
  - [使用fiddler时遇到的坑](https://github.com/godkun/work-problems/issues/1)
  - [小程序中安卓机上不显示图片](https://github.com/godkun/work-problems/issues/4)
+ - [项目代码波动大时，拉取代码出现很多冲突](https://github.com/godkun/work-problems/issues/3)
+ - [如何平滑处理可能的报错和异常](https://github.com/godkun/work-problems/issues/2)
