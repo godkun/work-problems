@@ -22,3 +22,6 @@
  - [小程序style设置动态背景样式无法和静态样式一起生效](https://github.com/godkun/work-problems/issues/6)
  - [快速解决某个端口被占用的情况](https://github.com/godkun/work-problems/issues/17)
  - [再次优化登录代码](https://github.com/godkun/work-problems/issues/29)
+ - [如何解决团队合作中，当合并分支级别的代码时，可能会出现的的各种问题](https://github.com/godkun/work-problems/issues/47)
+ - [一个天坑。。坑了我30分钟](https://github.com/godkun/work-problems/issues/46)
+ - [小程序内嵌H5页面，点击右上角的转发后，点击转发的连接后，页面空白](https://github.com/godkun/work-problems/issues/43)
